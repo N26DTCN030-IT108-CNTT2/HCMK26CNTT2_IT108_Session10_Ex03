@@ -1,6 +1,6 @@
 # HCMK26CNTT2_IT108_Session10_Ex03
 Bài tập số 3
-# 🚀 Bộ Hồ Sơ Giải Pháp Tự Động Hóa Giao Vận FastMove (Session 12 Ex03)
+# Bộ Hồ Sơ Giải Pháp Tự Động Hóa Giao Vận FastMove (Session 12 Ex03)
 
 Bài giải chuẩn hóa quy trình giao vận, khắc phục sự cố tra cứu cước phí thủ công 16 tiếng/ngày và tối ưu hóa vận hành kho cho Công ty Giao hàng FastMove.
 
